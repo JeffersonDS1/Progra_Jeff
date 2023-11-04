@@ -1,0 +1,21 @@
+#titulo1 {
+    font-size: 50px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url("Imagenes/img8.jpg");
+    }
+
+body {
+     background-image: url("Imagenes/img1.avif")
+     }
+
+#texto1 {
+margin: 2rem auto;
+width: 700px;
+}
+
+
+
+
+
+
